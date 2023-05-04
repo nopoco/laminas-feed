@@ -1,5 +1,5 @@
 {
-    "name": "laminas/laminas-feed",
+    "name": "nopoco/laminas-feed",
     "description": "provides functionality for creating and consuming RSS and Atom feeds",
     "license": "BSD-3-Clause",
     "keywords": [
